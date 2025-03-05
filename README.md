@@ -1,7 +1,7 @@
 # Business Insights 360 Report
 
 ## 📊 Project Overview
-The **Business Insights 360 Dashboard** for AtliQ Hardware is a robust Power BI solution designed to deliver real-time insights across core business functions, including Finance, Sales, Marketing, Supply Chain, and Executive Decision-Making. This project provides a data-driven approach to tackling analytical challenges and optimizing strategic decisions.
+The **Business Insights 360 Dashboard** for AtliQ Technologies is a robust Power BI solution designed to deliver real-time insights across core business functions, including Finance, Sales, Marketing, Supply Chain, and Executive Decision-Making. This project provides a data-driven approach to tackling analytical challenges and optimizing strategic decisions.
 
 ## ✨ Key Features
 ### 📌 Comprehensive Dashboard Views
