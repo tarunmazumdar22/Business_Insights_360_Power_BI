@@ -3,6 +3,9 @@
 ## 📊 Project Overview
 The **Business Insights 360 Dashboard** for AtliQ Hardware is a robust Power BI solution designed to deliver real-time insights across core business functions, including Finance, Sales, Marketing, Supply Chain, and Executive Decision-Making. This project provides a data-driven approach to tackling analytical challenges and optimizing strategic decisions.
 
+## 📸 Explore the Live Dashboard
+**Access the Interactive Dashboard:** [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWY3N2Y0ZjktZWQzMC00NjIxLTg1NzMtMTIyYjE5Mjc4MzgzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=035e524ae12f14bd59dd)
+
 ## ✨ Key Features
 ### 📌 Comprehensive Dashboard Views
 #### 📈 Financial View
@@ -52,10 +55,6 @@ This dashboard has significantly contributed to:
 - **Efficient Data Integration**: Unified SQL and Excel datasets for a comprehensive analytical model.
 - **Enhanced Dashboard Functionality**: Utilized bookmarks, tooltips, and conditional formatting for a seamless user experience.
 - **Automation & Scalability**: Implemented scheduled data refreshes to ensure up-to-date reporting.
-
-
-## 📸 Explore the Live Dashboard
-**Access the Interactive Dashboard:** [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWY3N2Y0ZjktZWQzMC00NjIxLTg1NzMtMTIyYjE5Mjc4MzgzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=035e524ae12f14bd59dd)
 
 ---
 For collaboration or inquiries, feel free to reach out!
